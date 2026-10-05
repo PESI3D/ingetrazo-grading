@@ -24,6 +24,7 @@ Die Kanten rund um die freie Fläche auswählen (lose Kanten und/oder Gruppen au
 - Das Ergebnis ist **eine Gruppe**, die ihre Kanten und Einstellungen kennt — auswählen und **Edit Grading…** aufrufen, um sie zu ändern. Ein Rückgängig-Schritt pro Aufruf.
 
 ## Änderungen
+- **1.1** — eigene Werkzeugleiste **Grading** mit einem Icon je Befehl (Fill from Edges… · Edit Grading…). Sie erscheint in einer eigenen Zeile unter den eingebauten Leisten und lässt sich wie diese verschieben, abdocken oder ausblenden (Rechtsklick auf eine Leiste). Icons im Stil von IngeTrazo, passend zum hellen/dunklen Theme.
 - **1.0** — erste Veröffentlichung.
 
 ## Lizenz

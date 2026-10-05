@@ -24,6 +24,7 @@ Select the edges around the open ground (loose edges and/or groups of edges) and
 - The result is **one group** that remembers its edges and settings — select it and run **Edit Grading…** to change it. One undo step per run.
 
 ## Changelog
+- **1.1** — own toolbar **Grading** with one icon per command (Fill from Edges… · Edit Grading…). It starts on a row of its own under the built-in toolbars; move, float or hide it like those (right-click on a toolbar). Icons drawn in IngeTrazo's own style, they follow the light/dark theme.
 - **1.0** — first release.
 
 ## Licence
