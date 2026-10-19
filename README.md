@@ -11,7 +11,7 @@ Fills the open ground between edges — a path, a terrace, a ramp, a sunken plaz
 2. Copy `grading_tool.py` into that folder.
 3. Restart IngeTrazo → **Extensions ▸ Grading ▸** *Fill from Edges… · Edit Grading…* (also on the right-click menu).
 
-Requires IngeTrazo ≥ 0.5 (extension API 2). A sample model is in [`examples/grading_examples.igz`](examples/grading_examples.igz).
+Requires IngeTrazo ≥ 0.5.6 (extension API 2) · tested with IngeTrazo 0.5.8. A sample model is in [`examples/grading_examples.igz`](examples/grading_examples.igz).
 
 ## How to use
 Select the edges around the open ground (loose edges and/or groups of edges) and run **Fill from Edges…**.

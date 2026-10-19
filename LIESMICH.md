@@ -11,7 +11,7 @@ Füllt die freie Fläche zwischen Kanten — Weg, Terrasse, Rampe, abgesenkter P
 2. `grading_tool.py` in diesen Ordner kopieren.
 3. IngeTrazo neu starten → **Extensions ▸ Grading ▸** *Fill from Edges… · Edit Grading…* (auch im Rechtsklick-Menü).
 
-Benötigt IngeTrazo ≥ 0.5 (Extension-API 2). Ein Beispielmodell liegt in [`examples/grading_examples.igz`](examples/grading_examples.igz).
+Benötigt IngeTrazo ≥ 0.5.6 (Extension-API 2) · getestet mit IngeTrazo 0.5.8. Ein Beispielmodell liegt in [`examples/grading_examples.igz`](examples/grading_examples.igz).
 
 ## Bedienung
 Die Kanten rund um die freie Fläche auswählen (lose Kanten und/oder Gruppen aus Kanten) und **Fill from Edges…** aufrufen.
